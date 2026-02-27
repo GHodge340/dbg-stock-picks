@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/thedj/Webdev/reactprojects/dbgdashboard/components/AutoRefresh.tsx"],"sourcesContent":["'use client';\r\n\r\nimport { useEffect } from 'react';\r\nimport { useRouter } from 'next/navigation';\r\n\r\nexport default function AutoRefresh() {\r\n  const router = useRouter();\r\n\r\n  useEffect(() => {\r\n    // Check for new data every 60 seconds\r\n    const interval = setInterval(() => {\r\n      router.refresh();\r\n    }, 60000);\r\n\r\n    return () => clearInterval(interval);\r\n  }, [router]);\r\n\r\n  return null;\r\n}\r\n"],"names":[],"mappings":";;;;AAEA;AACA;;AAHA;;;AAKe,SAAS;;IACtB,MAAM,SAAS,IAAA,kJAAS;IAExB,IAAA,0KAAS;iCAAC;YACR,sCAAsC;YACtC,MAAM,WAAW;kDAAY;oBAC3B,OAAO,OAAO;gBAChB;iDAAG;YAEH;yCAAO,IAAM,cAAc;;QAC7B;gCAAG;QAAC;KAAO;IAEX,OAAO;AACT;GAbwB;;QACP,kJAAS;;;KADF"}},
-    {"offset": {"line": 48, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/thedj/Webdev/reactprojects/dbgdashboard/node_modules/next/navigation.js"],"sourcesContent":["module.exports = require('./dist/client/components/navigation')\n"],"names":[],"mappings":"AAAA,OAAO,OAAO","ignoreList":[0]}}]
-}
