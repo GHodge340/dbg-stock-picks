@@ -1,0 +1,42 @@
+[
+  {
+    "Symbol": "CAVA",
+    "Score": "35.45",
+    "Buy Price": "84.69",
+    "Target": "90.62",
+    "Stop": "81.72",
+    "AI Thesis": "CAVA’s high momentum score of 35.45 indicates strong institutional accumulation and price velocity, suggesting the stock is currently in a high-conviction breakout phase. This setup offers a favorable 2:1 reward-to-risk ratio, providing a tactical entry point to capture a 7% upside swing as the stock capitalizes on its prevailing bullish trend."
+  },
+  {
+    "Symbol": "CRCL",
+    "Score": "31.24",
+    "Buy Price": "80.58",
+    "Target": "86.22",
+    "Stop": "77.76",
+    "AI Thesis": "CRCL exhibits strong upward velocity with a high momentum score of 31.24, suggesting a clear trend-following opportunity is currently underway. This technical strength supports a high-probability swing trade toward a +7% target, utilizing a tight -3.5% stop to maintain a favorable 2:1 risk-to-reward ratio."
+  },
+  {
+    "Symbol": "ALGN",
+    "Score": "29.32",
+    "Buy Price": "186.71",
+    "Target": "199.78",
+    "Stop": "180.18",
+    "AI Thesis": "ALGN's technical score suggests the stock is carving out a bottom, offering a high-probability mean-reversion setup as momentum begins to shift back in favor of the bulls. This trade capitalizes on an oversold relief bounce, providing a disciplined 2:1 reward-to-risk opportunity to capture a move toward the $200 psychological resistance level."
+  },
+  {
+    "Symbol": "CCL",
+    "Score": "28.17",
+    "Buy Price": "31.84",
+    "Target": "34.07",
+    "Stop": "30.73",
+    "AI Thesis": "CCL’s high momentum score of 28.17 indicates a powerful bullish trend that suggests the stock has significant room to run toward the $34.00 target. This setup offers an attractive 2:1 reward-to-risk profile, capitalizing on strong price action to capture a +7% gain while maintaining a disciplined exit strategy."
+  },
+  {
+    "Symbol": "ALGM",
+    "Score": "22.86",
+    "Buy Price": "38.15",
+    "Target": "40.82",
+    "Stop": "36.81",
+    "AI Thesis": "ALGM exhibits strong bullish momentum with a high technical score of 22.86, suggesting the stock is in a high-conviction trend or breakout phase. This setup provides an attractive risk-reward entry to capitalize on continued price acceleration toward the $40.82 target while maintaining a disciplined stop at $36.81."
+  }
+]
