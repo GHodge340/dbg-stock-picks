@@ -97,9 +97,9 @@ export default async function Dashboard() {
                         </span>
                       </div>
                     </div>
-                    <div className="text-right">
-                      <div className="text-[10px] text-slate-500 font-black uppercase tracking-[0.2em] mb-1">Entry Price</div>
-                      <div className="text-3xl font-mono font-medium text-white tracking-tighter">${stock['Buy Price']}</div>
+                    <div className="text-right flex flex-col items-end">
+                      <div className="text-[9px] md:text-[10px] text-slate-500 font-black uppercase tracking-[0.1em] md:tracking-[0.2em] mb-1">Entry Price</div>
+                      <div className="text-xl md:text-3xl font-mono font-medium text-white tracking-tighter">${stock['Buy Price']}</div>
                     </div>
                   </div>
 
@@ -133,7 +133,7 @@ export default async function Dashboard() {
                       <div className="p-1 rounded bg-indigo-500/20">
                         <BrainCircuit className="w-3.5 h-3.5 text-indigo-400" />
                       </div>
-                      <span className="text-[10px] font-black uppercase tracking-widest text-indigo-400">Gemini Analyst Insight</span>
+                      <span className="text-[10px] font-black uppercase tracking-widest text-indigo-400">AI Analyst Insight</span>
                     </div>
                     <p className="text-slate-400 leading-relaxed text-sm italic relative z-10">
                       "{stock['AI Thesis']}"
