@@ -67,7 +67,7 @@ async function getCompanyContext(symbol) {
 async function generateAIAnalysis(candidate, context) {
     if (!process.env.GEMINI_API_KEY) return "AI Analysis: (Missing API Key)";
 
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+    const model = genAI.getGenerativeModel({ model: "gemini-3-flash-preview" });
 
     const prompt = `
     Analyze ${candidate.Symbol} for a Swing Trade (Target: +7%, Stop: -3.5%).
