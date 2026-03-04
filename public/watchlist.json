@@ -1,47 +1,47 @@
 [
   {
-    "Symbol": "MOBX",
-    "Score": "150.44",
-    "Buy Price": "0.66",
-    "Target": "0.71",
-    "Stop": "0.64",
-    "AI Thesis": "**Trader’s Thesis:** MOBX is exhibiting exceptional bullish momentum with a high technical score of 150.44, suggesting a strong trend-following environment and potential breakout despite the lack of immediate news catalysts. This price action creates a favorable window for a quick swing trade, utilizing the current strength to target a 7% gain while maintaining a tight risk-controlled exit.",
-    "News": "No recent news found."
-  },
-  {
-    "Symbol": "TGT",
-    "Score": "29.37",
-    "Buy Price": "119.44",
-    "Target": "127.80",
-    "Stop": "115.25",
+    "Symbol": "ASNS",
+    "Score": "100.74",
+    "Buy Price": "0.50",
+    "Target": "0.54",
+    "Stop": "0.49",
     "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
     "News": "No recent news found."
   },
   {
-    "Symbol": "PLUG",
-    "Score": "29.19",
-    "Buy Price": "2.29",
-    "Target": "2.45",
-    "Stop": "2.21",
-    "AI Thesis": "PLUG’s high momentum score of 29.19 suggests a powerful technical breakout is underway, positioning the stock for a rapid trend continuation toward the +7% target. With the current price of $2.29 offering a disciplined 2:1 reward-to-risk setup, this trade capitalizes on high-velocity price action and strong buying pressure.",
-    "News": "No recent news found."
-  },
-  {
-    "Symbol": "ALGN",
-    "Score": "22.27",
-    "Buy Price": "182.50",
-    "Target": "195.27",
-    "Stop": "176.11",
-    "AI Thesis": "ALGN is exhibiting powerful bullish momentum with a technical score of 22.27, suggesting a strong trend-following setup for a continuation toward the $195 price target. In the absence of immediate news-driven volatility, the stock is primed for a technical breakout, offering a disciplined 2:1 reward-to-risk ratio for a short-term swing.",
+    "Symbol": "AG",
+    "Score": "29.80",
+    "Buy Price": "28.80",
+    "Target": "30.81",
+    "Stop": "27.79",
+    "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
     "News": "No recent news found."
   },
   {
     "Symbol": "AEM",
-    "Score": "20.27",
-    "Buy Price": "233.37",
-    "Target": "249.70",
-    "Stop": "225.20",
-    "AI Thesis": "AEM’s high momentum score of 20.27 indicates a robust bullish trend and strong institutional demand, signaling that the stock is currently in a high-conviction breakout phase. Given the absence of negative catalysts, the \"path of least resistance\" remains higher, offering a favorable risk-reward setup for a trend-following swing toward the +7% target.",
+    "Score": "29.59",
+    "Buy Price": "237.22",
+    "Target": "253.82",
+    "Stop": "228.91",
+    "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
+    "News": "No recent news found."
+  },
+  {
+    "Symbol": "ALGN",
+    "Score": "29.40",
+    "Buy Price": "184.09",
+    "Target": "196.98",
+    "Stop": "177.65",
+    "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
+    "News": "No recent news found."
+  },
+  {
+    "Symbol": "MOBX",
+    "Score": "22.62",
+    "Buy Price": "1.01",
+    "Target": "1.08",
+    "Stop": "0.97",
+    "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
     "News": "No recent news found."
   }
 ]
