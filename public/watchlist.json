@@ -1,47 +1,47 @@
 [
   {
-    "Symbol": "ASNS",
-    "Score": "100.74",
-    "Buy Price": "0.50",
-    "Target": "0.54",
-    "Stop": "0.49",
+    "Symbol": "TTD",
+    "Score": "31.13",
+    "Buy Price": "32.28",
+    "Target": "34.54",
+    "Stop": "31.16",
     "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
     "News": "No recent news found."
   },
   {
-    "Symbol": "AG",
-    "Score": "29.80",
-    "Buy Price": "28.80",
-    "Target": "30.81",
-    "Stop": "27.79",
+    "Symbol": "ALGN",
+    "Score": "22.94",
+    "Buy Price": "178.28",
+    "Target": "190.76",
+    "Stop": "172.04",
     "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
     "News": "No recent news found."
   },
   {
     "Symbol": "AEM",
-    "Score": "29.59",
-    "Buy Price": "237.22",
-    "Target": "253.82",
-    "Stop": "228.91",
-    "AI Thesis": "AEM's high technical score of 29.59 signals powerful bullish momentum, suggesting the stock is currently in a strong markup phase with significant buying pressure. This setup offers a compelling 2:1 reward-to-risk profile, positioned to capitalize on trend continuation toward the +7% target while utilizing a disciplined -3.5% stop to protect capital.",
-    "News": "No recent news found."
-  },
-  {
-    "Symbol": "ALGN",
-    "Score": "29.40",
-    "Buy Price": "184.09",
-    "Target": "196.98",
-    "Stop": "177.65",
+    "Score": "22.46",
+    "Buy Price": "225.32",
+    "Target": "241.10",
+    "Stop": "217.44",
     "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
     "News": "No recent news found."
   },
   {
-    "Symbol": "MOBX",
-    "Score": "22.62",
-    "Buy Price": "1.01",
-    "Target": "1.08",
-    "Stop": "0.97",
-    "AI Thesis": "MOBX exhibits significant bullish momentum with a high technical score of 22.62, suggesting a strong trend continuation is currently underway. Holding just above the critical $1.00 psychological support level, the stock offers a high-probability entry for a volatility expansion toward the +7% target.",
+    "Symbol": "AG",
+    "Score": "19.96",
+    "Buy Price": "27.25",
+    "Target": "29.16",
+    "Stop": "26.30",
+    "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
+    "News": "No recent news found."
+  },
+  {
+    "Symbol": "BRK-B",
+    "Score": "17.91",
+    "Buy Price": "496.11",
+    "Target": "530.84",
+    "Stop": "478.75",
+    "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
     "News": "No recent news found."
   }
 ]
