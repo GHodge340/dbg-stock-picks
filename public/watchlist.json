@@ -1,47 +1,47 @@
 [
   {
-    "Symbol": "TTD",
-    "Score": "31.13",
-    "Buy Price": "32.28",
-    "Target": "34.54",
-    "Stop": "31.16",
-    "AI Thesis": "TTD exhibits strong bullish momentum with a high technical score of 31.13, suggesting a robust trend that favors a continuation toward the +7% price target. This setup offers an attractive 2:1 reward-to-risk profile, allowing traders to leverage existing buying pressure while maintaining a disciplined exit strategy at the -3.5% stop level.",
-    "News": "No recent news found."
-  },
-  {
-    "Symbol": "ALGN",
-    "Score": "22.94",
-    "Buy Price": "178.28",
-    "Target": "190.76",
-    "Stop": "172.04",
-    "AI Thesis": "ALGN’s high technical score of 22.94 signals robust bullish momentum, suggesting that the stock is currently entering a high-conviction trend-following phase with strong buying pressure. This setup offers a compelling 2:1 reward-to-risk opportunity, leveraging the stock’s current price strength to target a 7% swing toward overhead resistance before momentum fades.",
+    "Symbol": "AG",
+    "Score": "30.64",
+    "Buy Price": "26.99",
+    "Target": "28.88",
+    "Stop": "26.05",
+    "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
     "News": "No recent news found."
   },
   {
     "Symbol": "AEM",
-    "Score": "22.46",
-    "Buy Price": "225.32",
-    "Target": "241.10",
-    "Stop": "217.44",
-    "AI Thesis": "AEM’s high momentum score of 22.46 signals a powerful bullish trend, suggesting the stock has the technical velocity required to reach the +7% profit target. The setup offers a favorable 2:1 reward-to-risk ratio, allowing for a disciplined entry at $225.32 while utilizing a tight -3.5% stop to protect against sudden reversals.",
+    "Score": "30.08",
+    "Buy Price": "229.61",
+    "Target": "245.68",
+    "Stop": "221.57",
+    "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
     "News": "No recent news found."
   },
   {
-    "Symbol": "AG",
-    "Score": "19.96",
-    "Buy Price": "27.25",
-    "Target": "29.16",
-    "Stop": "26.30",
-    "AI Thesis": "AG’s high momentum score of 19.96 signals strong buying pressure and a robust trend continuation, positioning the stock for a technical breakout toward the $29.16 target. The absence of negative news provides a clear path for this momentum to persist, offering a disciplined 2:1 reward-to-risk setup at the current $27.25 entry.",
+    "Symbol": "AGI",
+    "Score": "29.27",
+    "Buy Price": "51.44",
+    "Target": "55.04",
+    "Stop": "49.64",
+    "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
     "News": "No recent news found."
   },
   {
-    "Symbol": "BRK-B",
-    "Score": "17.91",
-    "Buy Price": "496.11",
-    "Target": "530.84",
-    "Stop": "478.75",
-    "AI Thesis": "BRK-B is exhibiting significant bullish momentum with a high technical score of 17.91, positioning the stock for a potential breakout as it nears the $500 psychological resistance level. This trend-following setup offers an attractive risk-reward profile, leveraging strong price action to target a 7% upside move while maintaining a disciplined stop-loss.",
+    "Symbol": "NIO",
+    "Score": "25.84",
+    "Buy Price": "5.33",
+    "Target": "5.70",
+    "Stop": "5.14",
+    "AI Thesis": "NIO’s high momentum score of 25.84 indicates a strong technical breakout is underway, suggesting that buyers are aggressively stepping in at the $5.33 level. This momentum provides a high-probability window to capture a 7% swing as the stock trends upward, supported by a disciplined 2:1 risk-reward structure.",
+    "News": "No recent news found."
+  },
+  {
+    "Symbol": "JOBY",
+    "Score": "17.60",
+    "Buy Price": "10.16",
+    "Target": "10.87",
+    "Stop": "9.80",
+    "AI Thesis": "Stock Data Currently Unavailable. Please check back momentarily.",
     "News": "No recent news found."
   }
 ]
